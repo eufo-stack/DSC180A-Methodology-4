@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Eudora Fong
-efong@ucsd.edu
+Eudora Fong and John Kim
